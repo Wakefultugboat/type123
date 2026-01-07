@@ -1,2 +1,3 @@
 # type123
-it covers the basic of git commands
+It covers the basics of git commands
+Primarily, it consists of git bash, along with git, which are version control system. 
